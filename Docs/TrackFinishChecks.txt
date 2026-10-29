@@ -1,0 +1,4 @@
+PASS 464 checks
+OverdriveF1: 44 detail batches, 243888 vertices, 20 layered cars, 12 culling sectors
+OverdriveHarbor: 39 detail batches, 223344 vertices, 20 layered cars, 12 culling sectors
+OverdriveYasMarina: 48 detail batches, 256392 vertices, 20 layered cars, 12 culling sectors

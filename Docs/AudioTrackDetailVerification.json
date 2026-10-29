@@ -1,0 +1,31 @@
+{
+    "passed": true,
+    "checks": [
+        "PASS Full 20-car grid stays within the configured 32 audio voices",
+        "PASS Track finishing geometry has no colliders",
+        "PASS Detail geometry respects renderer and vertex budgets",
+        "PASS Six additional vehicle sound layers assigned",
+        "PASS Circuit ambience and grandstands linked",
+        "PASS Visible detail batch increase remains bounded (including render passes)",
+        "PASS Real acceleration engages intake and automatic shift sounds",
+        "PASS Releasing high-load throttle triggers a lift sound",
+        "PASS Actual kerb wheel contacts produce rumble without runoff audio",
+        "PASS Actual runoff contacts produce grit without kerb rumble",
+        "PASS Returning to asphalt clears surface sounds",
+        "PASS Pause stops every vehicle layer and ambience",
+        "PASS Resume restores layered audio and ambience",
+        "PASS Menu/restart clears driving surface and load sound"
+    ],
+    "peakSpeed": 209.86459350585938,
+    "intake": 0.09099990874528885,
+    "kerb": 0.13873785734176637,
+    "gravel": 0.15411819517612458,
+    "asphaltResidual": 4.1143212570204926e-7,
+    "audioSources": 29,
+    "shiftSounds": 5,
+    "liftSounds": 1,
+    "renderers": 48,
+    "vertices": 256392,
+    "baselineBatches": 1471,
+    "detailBatches": 1440
+}
